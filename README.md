@@ -1,5 +1,11 @@
 # BodyForge
 
+
+![Project Status: In Progress](https://img.shields.io/badge/Project%20Status-In%20Progress-orange)
+
+> **Development status: Work in Progress (WIP).** BodyForge is actively being developed and is not yet complete or production-ready.
+
+
 **AI-Powered Fitness, Martial Arts & Personal Development Platform**
 
 **Platform priority:** Mobile-first  
